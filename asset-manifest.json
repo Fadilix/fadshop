@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fadshop/static/css/main.13b37a21.css",
-    "main.js": "/fadshop/static/js/main.5da6d9e9.js",
+    "main.css": "/fadshop/static/css/main.2fb1edbd.css",
+    "main.js": "/fadshop/static/js/main.cf39ac60.js",
     "static/js/787.dcc73137.chunk.js": "/fadshop/static/js/787.dcc73137.chunk.js",
     "static/media/riri1.webp": "/fadshop/static/media/riri1.ae4d4e2b82686aaa6233.webp",
     "static/media/nbadraft.webp": "/fadshop/static/media/nbadraft.ead3b302923dc926d60d.webp",
@@ -20,12 +20,12 @@
     "static/media/slick.ttf": "/fadshop/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/fadshop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fadshop/index.html",
-    "main.13b37a21.css.map": "/fadshop/static/css/main.13b37a21.css.map",
-    "main.5da6d9e9.js.map": "/fadshop/static/js/main.5da6d9e9.js.map",
+    "main.2fb1edbd.css.map": "/fadshop/static/css/main.2fb1edbd.css.map",
+    "main.cf39ac60.js.map": "/fadshop/static/js/main.cf39ac60.js.map",
     "787.dcc73137.chunk.js.map": "/fadshop/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13b37a21.css",
-    "static/js/main.5da6d9e9.js"
+    "static/css/main.2fb1edbd.css",
+    "static/js/main.cf39ac60.js"
   ]
 }
