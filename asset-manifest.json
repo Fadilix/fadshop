@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fadshop/static/css/main.2fb1edbd.css",
-    "main.js": "/fadshop/static/js/main.cf39ac60.js",
+    "main.js": "/fadshop/static/js/main.d064b80f.js",
     "static/js/787.dcc73137.chunk.js": "/fadshop/static/js/787.dcc73137.chunk.js",
     "static/media/riri1.webp": "/fadshop/static/media/riri1.ae4d4e2b82686aaa6233.webp",
     "static/media/nbadraft.webp": "/fadshop/static/media/nbadraft.ead3b302923dc926d60d.webp",
@@ -21,11 +21,11 @@
     "static/media/slick.woff": "/fadshop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fadshop/index.html",
     "main.2fb1edbd.css.map": "/fadshop/static/css/main.2fb1edbd.css.map",
-    "main.cf39ac60.js.map": "/fadshop/static/js/main.cf39ac60.js.map",
+    "main.d064b80f.js.map": "/fadshop/static/js/main.d064b80f.js.map",
     "787.dcc73137.chunk.js.map": "/fadshop/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fb1edbd.css",
-    "static/js/main.cf39ac60.js"
+    "static/js/main.d064b80f.js"
   ]
 }
