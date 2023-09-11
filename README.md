@@ -1,5 +1,5 @@
 # Fadshop
-Responsive Shop UI
+Responsive Shop UI - 
 visit website here : https://fadilix.github.io/fadshop
 
 # Screenshots
